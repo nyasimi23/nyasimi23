@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nyasimi23
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Comp Science
-- 💞️ I’m looking to collaborate on AI and ML
-- 📫 How to reach me thenextrenaissance892@gmail.com
+- 💞️ I’m looking to collaborate on Backend Dev -- PHP | JAVA
+- 📫 How to reach me jobnyasimi29@gmail.com
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
