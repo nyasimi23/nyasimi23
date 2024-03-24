@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nyasimi23
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Comp Science
-- 💞️ I’m looking to collaborate on Backend Dev -- PHP | JAVA
+- 💞️ I’m looking to collaborate on Backend Dev 
 - 📫 How to reach me jobnyasimi29@gmail.com
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
